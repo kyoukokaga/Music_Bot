@@ -25,22 +25,29 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✧ ᴀᴅᴅ ᴍᴇ ✧", url=f"https://t.me/{bu}?startgroup=true"
+                        " ᴀᴅᴅ ᴍᴇ ", url=f"https://t.me/{bu}?startgroup=true"
                        ),
                   ],[
                     InlineKeyboardButton(
-                        "✧ ᴏᴡɴᴇʀ ✧", url=f"https://t.me/Moon_light_xd"
+                        " ᴏᴡɴᴇʀ ", url=f"https://t.me/Moon_light_xd"
                     ),
                     InlineKeyboardButton(
-                        "✧ sᴜᴘᴘᴏʀᴛ ✧", url=f"https://t.me/Little_Rascals_xD"
+                        " sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/Little_Rascals_xD"
                     )
                 ],[
                     InlineKeyboardButton(
-                        "✧ ɪɴʟɪɴᴇ ✧", switch_inline_query_current_chat=""
+                        " ɪɴʟɪɴᴇ ", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "✧ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ✧", url="https://www.pornhub.com"
-                    )]
+                        " sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ", url="https://www.pornhub.com"
+                    )],[
+                    InlineKeyboardButton(
+                        " ᴏᴡɴᴇʀ ", url=f"https://t.me/Moon_light_xd"
+                    ),
+                    InlineKeyboardButton(
+                        " channel ", url=f"https://t.me/Butterfly_Network"
+                    )
+                ]
             ]
        ),
     )
