@@ -1,6 +1,8 @@
 
 <details>
-<summary><h3> Requirements 📝</h3></summary>
+<summary>
+<p align="center"><a href="https://t.me/Little_rascals_xd"><img src="https://telegra.ph//file/38b4dc3e7e96b0dc4b903.jpg"></a></p>
+<h3> Requirements 📝</h3></summary>
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
