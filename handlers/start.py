@@ -10,16 +10,16 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 async def start_(client: Client, message: Message):
     await message.delete()
     await message.reply_photo(
-        photo=f"{START_IMG}",
+        photo=f"https://telegra.ph//file/d85afcae9594b67582e1e.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━
  ʜᴇʏ {message.from_user.mention()} !
 
-        ᴛʜɪs ɪs [{bn}](t.me/{bu}), ᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏᴄʜᴀᴛs...
+        ᴛʜɪs ɪs [Valentina](t.me/ValentinaX_Bot), ᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏᴄʜᴀᴛs...
 
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʜᴀɴᴅʟᴇʀs : ( `/ . • $ ^ ~ + * ?` )
 
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴀʙᴏᴜᴛ ᴍᴇ ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](t.me/{me}) ...
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴀʙᴏᴜᴛ ᴍᴇ ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [Moonlight](t.me/{moon_light_xd}) ...
 ━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -29,17 +29,17 @@ async def start_(client: Client, message: Message):
                        ),
                   ],[
                     InlineKeyboardButton(
-                        "✧ ᴏᴡɴᴇʀ ✧", url=f"https://t.me/{me}"
+                        "✧ ᴏᴡɴᴇʀ ✧", url=f"https://t.me/Moon_light_xd"
                     ),
                     InlineKeyboardButton(
-                        "✧ sᴜᴘᴘᴏʀᴛ ✧", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "✧ sᴜᴘᴘᴏʀᴛ ✧", url=f"https://t.me/Little_Rascals_xD"
                     )
                 ],[
                     InlineKeyboardButton(
                         "✧ ɪɴʟɪɴᴇ ✧", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "✧ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ✧", url="https://github.com/HeroX-xD/Tricky-anonmusic"
+                        "✧ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ✧", url="https://www.pornhub.com"
                     )]
             ]
        ),
