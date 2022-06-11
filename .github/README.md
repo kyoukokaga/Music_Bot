@@ -53,12 +53,12 @@
   ___________________
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-<p align="center"><a href="https://herox-xd.github.io/Am-Noob/"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://github.com/kyoukokaga/Music_Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/herox-xd/tricky-anonmusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/kyoukokaga/Music_Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
@@ -70,7 +70,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/HeroX-xD/Tricky-anonmusic # Clone your repo.
+git clone https://github.com/kyoukokaga/Music_Bot # Clone your repo.
 cd Tricky-anonmusic
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
